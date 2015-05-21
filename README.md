@@ -84,4 +84,12 @@ collaboration thing.
 
   10. Push to your new remote: `git push <YOUR_GITHUB_NAME>`
 
-  11. Make a pull request. `git pull-request`
+  11. Make a pull request. `git pull-request "title of the pull request" -h
+      <YOUR_GITHUB_NAME>:master -b codeforprinceton:master` -f
+      - `-h` stands for `head`. The argument of it is where you want to take
+        changes from.
+      - `-b` stands for `base`. The argument of it is where you want changes to
+        be applied.
+      - `-f` stands for `force`. Useful for preventing errors. Without it you
+        might get an error saying `Aborted: 1 commits are not yet pushed to
+        origin/master`
