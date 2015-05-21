@@ -25,9 +25,9 @@ project.
      of the project to review your changes, and that you are requesting for
      them to merge it back into the repository that they are maintaining.
 
-  5. A collaborator on Github will then review the changes.
-    5a. If the collaborator likes it, then that person can *accept* the
-        pull request, and vice versa.
+  5. A collaborator on Github will then review the changes. They will either
+     accept the changes, or give advice as to improve the changes even more
+     before accepting the changes.
 
 ## Making changes via Github for Mac (or Windows):
 
