@@ -1,4 +1,5 @@
 # learnGithub
+
 Repo for learning Github - used at our hacknights
 
 ## Scenario
@@ -9,6 +10,7 @@ to this social coding/collaboration thing and you want to make changes to a
 project.
 
 ## Making changes via Github:
+
   0. Make a Github account.
 
   1. Visit the Github project on a browser.
@@ -28,6 +30,7 @@ project.
         pull request, and vice versa.
 
 ## Making changes via Github for Mac (or Windows):
+
   0. Login with your Github account.
 
   1. Visit the project via a browser and click the "Clone in Desktop"
@@ -43,6 +46,7 @@ project.
   5. Press the "Pull Request" icon (at the left of "Sync")
 
 ## Making changes in the Terminal (Mac/Linux):
+
   1. Install `hub`. See: https://hub.github.com/
 
     a. You want `hub` to be used when you use `git` in the command line.
