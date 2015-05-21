@@ -4,9 +4,9 @@ Repo for learning Github - used at our hacknights
 
 ## Scenario
 
-You and a bunch of Code for Princetonians want to work on a project together.
-The project you want to work on is already on Github, such as this. You are new
-to this social coding/collaboration thing and you want to make changes to a
+You and a bunch of civic hackers want to work on a project together. The
+project you want to work on is already on Github, such as this. You are new to
+this social coding/collaboration thing and you want to make changes to a
 project.
 
 ## Making changes via Github:
