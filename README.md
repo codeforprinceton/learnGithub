@@ -75,7 +75,7 @@ collaboration thing.
 
   7. `git status` to see all your changes.
 
-  7. Stage your changes. `git add .` (The "dot" refers to the current directory).
+  7. Stage your changes: `git add .` (The "dot" refers to the current directory).
 
   8. Commit: `git commit -m "my commit message"`
 
