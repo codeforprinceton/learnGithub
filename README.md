@@ -82,4 +82,6 @@ collaboration thing.
   9. Fork the repository, which will make a copy of the project and save it
      under your account on Github: `git fork`
 
-  10. Make a pull request. `git pull-request`
+  10. Push to your new remote: `git push <YOUR_GITHUB_NAME>`
+
+  11. Make a pull request. `git pull-request`
