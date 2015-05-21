@@ -102,5 +102,5 @@ project.
 
 ## Useful links
 
-http://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-https://www.udacity.com/course/how-to-use-git-and-github--ud775
+- http://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+- https://www.udacity.com/course/how-to-use-git-and-github--ud775
