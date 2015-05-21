@@ -98,4 +98,4 @@ project.
 
 ## Useful links
 
-[http://git-scm.com/book/en/v2/Getting-Started-Installing-Git]
+http://git-scm.com/book/en/v2/Getting-Started-Installing-Git
