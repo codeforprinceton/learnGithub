@@ -1,13 +1,12 @@
 # learnGithub
 Repo for learning Github - used at our hacknights
 
-## How to use Git and Github
+## Scenario
 
-You and Person A want to work on a project together. The project
-you want to work on is already on Github. You are new to this
-collaboration thing.
-
-    - Installation: http://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+You and a bunch of Code for Princetonians want to work on a project together.
+The project you want to work on is already on Github, such as this. You are new
+to this social coding/collaboration thing and you want to make changes to a
+project.
 
 ## Making changes via Github:
   0. Make a Github account.
@@ -93,3 +92,8 @@ collaboration thing.
       - `-f` stands for `force`. Useful for preventing errors. Without it you
         might get an error saying something like`Aborted: 1 commits are not yet
         pushed to origin/master`
+
+
+## Useful links
+
+[http://git-scm.com/book/en/v2/Getting-Started-Installing-Git]
