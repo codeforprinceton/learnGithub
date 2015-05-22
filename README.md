@@ -11,39 +11,47 @@ project.
 
 ## Making changes via Github:
 
-  0. Make a Github account.
+  1. Make a Github account.
 
-  1. Visit the Github project on a browser.
+  2. Visit the Github project on a browser.
 
-  2. Open the file.
+  3. Open the file.
 
-  3. Make a change. Because you are not a collaborator, it will "fork" a copy
+  4. Make a change. Because you are not a collaborator, it will "fork" a copy
      of the repo. This means that you are making a copy of the project on
      Github and it's going to be associated to your account.
 
-  4. Submit a pull request. By doing so, you are asking the maintainers
+  5. Submit a pull request. By doing so, you are asking the maintainers
      of the project to review your changes, and that you are requesting for
      them to merge it back into the repository that they are maintaining.
 
-  5. A collaborator on Github will then review the changes. They will either
+  6. A collaborator on Github will then review the changes. They will either
      accept the changes, or give advice as to improve the changes even more
      before accepting the changes.
 
 ## Making changes via Github for Mac (or Windows):
 
-  0. Login with your Github account.
+  1. Install Github for Mac (or Windows)
 
-  1. Visit the project via a browser and click the "Clone in Desktop"
-     button at the right.
+  2. Visit the project (such as `codeforprinceton/learnGithub`) via the browser
+     and press `Fork`. This will make a copy of the repository and will store
+     it under your account.
 
-  2. Make changes using a text editor (like Vim, Emacs, Atom, Sublime, etc.)
+  3. Go to your fork of the project on Github. If you followed step 2, you will
+     have it under `https://www.github.com/<YOUR_NAME>/learnGithub`.
 
-  3. Once you are done with the changes, go back to Github for Mac, and
+  4. Click "Clone in Desktop" on the right.
+
+  5. Make changes using a text editor (like Vim, Emacs, Atom, Sublime, etc.).
+
+  6. Once you are done with the changes, go back to Github for Mac, and
      make sure you are under the "Changes" tab.
 
-  4. Commit your changes.
+  7. Commit your changes by adding a summary and pressing `Commit`
 
-  5. Press the "Pull Request" icon (at the left of "Sync")
+  8. Press `Sync` to push your changes to your remote copy.
+
+  9. Press the "Pull Request" icon (at the left of "Sync")
 
 ## Making changes in the Terminal (Mac/Linux):
 
@@ -53,6 +61,7 @@ project.
         You can do that by editing your `.bashrc` or `.bash_profile` in
         the directory and adding the line `alias git=hub` using a text
         editor.
+
     b. Save your changes.
 
     c. Go back to the terminal and let it know about the change you've
