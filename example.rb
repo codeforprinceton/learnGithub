@@ -3,3 +3,4 @@ puts 'Hello the second time!'
 puts "fixed conflict"
 puts 'Hi from Batman'
 puts "Hi again from Batman with double quotes"
+puts "It is getting hot outside!"
